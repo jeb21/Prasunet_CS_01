@@ -21,6 +21,7 @@ Running the Program
 Clone this repository to your local machine.
 
   git clone https://github.com/yourusername/caesar-cipher.git
+  
   cd caesar-cipher
   
 Run the Python script.
