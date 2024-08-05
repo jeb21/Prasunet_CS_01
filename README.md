@@ -21,8 +21,7 @@ Running the Program
 Clone this repository to your local machine.
 
   git clone https://github.com/jeb21/Prasunet_CS_01.git
-  
-  cd caesar-cipher
+
   
 Run the Python script.
 
