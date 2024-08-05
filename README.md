@@ -20,10 +20,10 @@ Python 3.x installed on your system.
 Running the Program
 Clone this repository to your local machine.
 
-  git clone https://github.com/yourusername/caesar-cipher.git
+  git clone https://github.com/jeb21/Prasunet_CS_01.git
   
   cd caesar-cipher
   
 Run the Python script.
 
-  python caesar_cipher.py
+  Implement_Caesar_Cipher.py
